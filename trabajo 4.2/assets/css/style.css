@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+    
+    font-family: poppins;
+    height: auto;
+    height: 1rem;
+    background-position: 200 200;
+}
+h2 {
+    
+    font-size: 3rem;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+p {
+    
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    
+}
+h4 {
+    margin: 5rem auto 5rem auto;
+    text-align: center;
+}
+
+.uno {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.uno img {
+    /* box-sizing: 50px; */
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+    width: 70px;
+    height: 40;
+}
+.uno p {
+    
+    margin: 4rem auto 4rem auto;
+    height: 170px;
+    text-align: center;
+}
+.dos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.dos img {
+    box-sizing: 100px;
+    display: flex;
+    width: 70px;
+}
+.dos p {
+   margin: 4rem auto 4rem auto ;
+    height: 170px;
+    text-align: center;
+}
+.img-tres {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+.tres {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tres img {
+    box-sizing: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 70px; 
+}
+.tres p {
+    margin: 4rem auto 4rem auto;
+    height: 140px;
+    text-align: center;
+    
+}
+
+.cuatro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.cuatro img {
+    box-sizing: 100px;
+    display: flex;
+    width: 70px;
+    
+    align-items: center;
+    
+}
+.cuatro p {
+    margin: 4rem auto 4rem auto;
+    height: 170px;
+    text-align: center;
+    font-family: poppins;
+}
+section {
+    display: flex;
+    
+    
+    
+}
+
+.container2 {
+    margin: 2rem;
+    display: flex;
+    
+   
+}
